@@ -3,7 +3,7 @@ This is a simple analysis on a netflix dataset from Kaggle
 
 To get the code for the project open command prompt, cd into a new or old directory and run the code below 👇
 ```
-git clone https://github.com/JellyCodes/Analysis-on-netflix-data.git
+git clone https://github.com/JellyCodee/Analysis-on-netflix-data.git
 ```
 
 After cloning the repository cd into the location where the requirements.txt is found and run this code to install the necessary dependencies 👇
